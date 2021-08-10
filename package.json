@@ -1,12 +1,13 @@
 {
   "name": "react-native-material-dropdown-v2-fixed",
-  "version": "0.11.4",
+  "version": "0.11.5",
   "license": "BSD-3-Clause",
   "contributors": [
     {"name": "Alexander Nazarov", "email": "n4kz@n4kz.com"},
     {"name": "Jimmy Wei", "email": "ijimmywei@gmail.com"},
     {"name": "Davide Polano", "email": "davide@mdslab.org"},
-    {"name": "Cristina Cucinotta", "email": "cristina@mdslab.org"}
+    {"name": "Cristina Cucinotta", "email": "cristina@mdslab.org"},
+    {"name": "Alberto Lopez", "email": "alopez@digicard.net"}
   ],
 
   "description": "Material dropdown",
@@ -26,7 +27,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/mdslab87/react-native-material-dropdown.git"
+    "url": "git://github.com/digicard/react-native-material-dropdown.git"
   },
 
   "peerDependencies": {
@@ -47,7 +48,7 @@
 
   "dependencies": {
     "prop-types": "^15.5.9",
-    "react-native-material-buttons": "^0.5.0",
+    "react-native-material-buttons": "^0.6.0",
     "react-native-material-ripple": "^0.8.0"
   }
 }
