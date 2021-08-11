@@ -55,8 +55,8 @@
     "lint": "eslint src example/app.js"
   },
   "dependencies": {
+    "@digicard/react-native-material-buttons": "git+https://github.com/digicard/react-native-material-buttons.git#0.5.2",
     "prop-types": "^15.5.9",
-    "react-native-material-buttons": "git://github.com/digicard/react-native-material-buttons.git#0.5.2",
     "react-native-material-ripple": "^0.8.0"
   }
 }
