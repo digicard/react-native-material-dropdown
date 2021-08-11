@@ -1,6 +1,6 @@
 {
-  "name": "@digicard/react-native-material-dropdown",
-  "version": "0.11.8",
+  "name": "digicard-react-native-material-dropdown",
+  "version": "0.11.9",
   "license": "BSD-3-Clause",
   "contributors": [
     {
@@ -55,7 +55,7 @@
     "lint": "eslint src example/app.js"
   },
   "dependencies": {
-    "@digicard/react-native-material-buttons": "git+https://github.com/digicard/react-native-material-buttons.git#0.5.3",
+    "digicard-react-native-material-buttons": "^0.5.4",
     "prop-types": "^15.5.9",
     "react-native-material-ripple": "^0.8.0"
   }
